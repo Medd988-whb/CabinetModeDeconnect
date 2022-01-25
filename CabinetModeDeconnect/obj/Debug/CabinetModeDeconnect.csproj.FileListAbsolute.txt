@@ -1,0 +1,13 @@
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\bin\Debug\CabinetModeDeconnect.exe
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\bin\Debug\CabinetModeDeconnect.pdb
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\obj\Debug\CabinetModeDeconnect.csproj.AssemblyReference.cache
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\obj\Debug\CabinetModeDeconnect.FrmMenu.resources
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\obj\Debug\CabinetModeDeconnect.Properties.Resources.resources
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\obj\Debug\CabinetModeDeconnect.csproj.GenerateResource.cache
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\obj\Debug\CabinetModeDeconnect.csproj.CoreCompileInputs.cache
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\obj\Debug\CabinetModeDeconnect.exe
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\obj\Debug\CabinetModeDeconnect.pdb
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\obj\Debug\CabinetModeDeconnect.FrmDoctor.resources
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\bin\Debug\CabinetModeDeconnect.exe.config
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\obj\Debug\CabinetModeDeconnect.FrmPatient.resources
+C:\Users\meddw\Source\Repos\CabinetModeDeconnect\CabinetModeDeconnect\obj\Debug\CabinetModeDeconnect.FrmMedicament.resources
